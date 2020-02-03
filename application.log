@@ -1,0 +1,2 @@
+::1 - - [03/Feb/2020:18:42:13 +0000] "GET /getmoviedetail/?id=tt0112462 HTTP/1.1" 200 1229 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"
+::1 - - [03/Feb/2020:18:42:13 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:8888/getmoviedetail/?id=tt0112462" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"
