@@ -7,6 +7,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/fatihyildizli/omdb-nodejs-api)
 ![Languages](https://img.shields.io/github/languages/count/fatihyildizli/omdb-nodejs-api)
 ![Views](https://img.shields.io/github/search/fatihyildizli/omdb-nodejs-api/omdb-nodejs-api)
+
 OMDB nodejs Rest API | Movie search, movie details |  http://www.omdbapi.com/
 
 **Run project**
